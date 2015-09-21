@@ -45,3 +45,19 @@ Public Class Form1
     End Function
 
 ## Cheat Sheet VB.NET
+
+## Tel paren auto's
+
+ Dim autos() As Integer = {0, 1, 0, 1, 1}
+        Dim count = 0
+
+        For i As Integer = 0 To autos.Length - 1
+            If autos(i) = 0 Then
+                For j As Integer = i To autos.Length - 1
+                    If autos(j) = 1 Then
+                        count = count + 1
+                    End If
+                Next
+            End If
+        Next
+        MessageBox.Show(count)
