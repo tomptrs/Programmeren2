@@ -36,7 +36,7 @@ My.Computer.Audio.PlaySystemSound(
 
 
 
-![oef1](/oef1.PNG)
+![oef1](oef1.PNG)
 
 
 4. Ontwerp en schrijf een klasse die handelt als een dobbelsteen die bij een 
