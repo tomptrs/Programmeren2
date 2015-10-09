@@ -39,6 +39,7 @@ My.Computer.Audio.PlaySystemSound(
 ![oef1](oef1.PNG)
 
 
+
 4. Ontwerp en schrijf een klasse die handelt als een dobbelsteen die bij een 
 worp een waarde tussen 1 en 6 krijgt. 
 Schrijf een programma dat een dobbelsteenobject maakt en gebruikt.
